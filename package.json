@@ -1,0 +1,32 @@
+{
+	"name": "js-framework",
+	"version": "1.0.0",
+	"description": "A javascript for discord.js bots",
+	"main": "src/bot/index.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ThatAnonymousG/JS-Framework.git"
+	},
+	"keywords": [
+		"framework",
+		"command-handler",
+		"discordjs",
+		"bot",
+		"discord",
+		"javascript"
+	],
+	"author": "AnonymousG",
+	"license": "AGPL-3.0",
+	"bugs": {
+		"url": "https://github.com/ThatAnonymousG/JS-Framework/issues"
+	},
+	"homepage": "https://github.com/ThatAnonymousG/JS-Framework#readme",
+	"dependencies": {
+		"discord.js": "^12.2.0",
+		"dotenv": "^8.2.0",
+		"mongodb": "^0.2.25"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"dev": {
+		"token": "",
+		"prefix": ""
+	},
+	"prod": {
+		"token": "",
+		"prefix": ""
+	}
+}
